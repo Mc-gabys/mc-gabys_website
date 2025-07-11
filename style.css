@@ -175,32 +175,6 @@ h3.cmd-list {
     box-shadow: 0 0 15px gold;
 }
 
-.discord-button {
-    display: inline-flex;
-    align-items: center;
-    background: linear-gradient(#7289DA, #5b6eae);
-    color: white;
-    font-weight: bold;
-    padding: 15px 25px;
-    border-radius: 10px;
-    text-decoration: none;
-    font-size: 1.2em;
-    transition: box-shadow 0.5s ease;
-}
-
-.discord-button:hover {
-    box-shadow: 0 0 10px #7289DA;
-}
-
-.discord-icon {
-    height: 24px;
-    width: auto;
-    margin-right: 10px;
-    object-fit: contain;
-    vertical-align: middle;
-}
-
-
 footer {
     background-color: #8B0000;
     color: gold;
